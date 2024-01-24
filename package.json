@@ -1,0 +1,17 @@
+{
+  "name": "packagejson",
+  "version": "1.0.0",
+  "description": "Proyecto de E-comerce BackEnd",
+  "main": "ProductManager.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Walter Mauricio Gonzalez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
